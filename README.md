@@ -2,6 +2,6 @@
 <html>
   <head></head>
 <body>
-  This is my university
+ <h3> This is my university.</h3>
 </body>
 </html>
